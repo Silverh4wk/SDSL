@@ -5,3 +5,4 @@ It may not be optimal or good, but this is for me.
 # Data Structs implemented
 - [x] Array List (dynamic array)
 - [x] Doubly Linked List
+- [x] Direct Acess Table
